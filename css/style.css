@@ -1,0 +1,158 @@
+/* line 1, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* line 7, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.bgmobile_photo {
+  width: 100%;
+}
+
+/* line 11, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+header {
+  width: 100%;
+}
+
+/* line 15, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.filtre_vert {
+  background-color: green;
+}
+
+/* line 19, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.menu-top {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* line 24, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.img_logo {
+  width: 80%;
+  margin: auto;
+}
+
+/* line 27, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.img_logo img {
+  width: 100%;
+}
+
+/* line 32, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.text {
+  text-align: center;
+}
+
+/* line 34, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.text h1 {
+  color: white;
+}
+
+/* line 39, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.contenu_menu {
+  margin: 10px;
+}
+
+/* line 41, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.contenu_menu h4 a {
+  text-decoration: none;
+  color: white;
+}
+
+/* line 48, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.cadre_jaune_menu {
+  background-color: yellow;
+  width: 45%;
+}
+
+/* line 51, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.cadre_jaune_menu h2 {
+  text-align: right;
+}
+
+/* line 53, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.cadre_jaune_menu h2 a {
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+  text-align: right;
+}
+
+/* line 61, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.cadre_vert_menu {
+  width: 45%;
+  background-color: green;
+}
+
+/* line 64, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.cadre_vert_menu h2 {
+  text-align: left;
+}
+
+/* line 66, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.cadre_vert_menu h2 a {
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+  text-align: left;
+}
+
+/* line 74, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.img_ab {
+  width: 10%;
+}
+
+/* line 76, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.img_ab img {
+  width: 100%;
+}
+
+/* line 81, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.espace {
+  display: block;
+  height: 100px;
+}
+
+/* line 86, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.row {
+  display: flex;
+  height: 20px;
+}
+
+/* line 90, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.cadre_vert {
+  width: 50%;
+  background-color: green;
+}
+
+/* line 94, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.cadre_jaune {
+  width: 50%;
+  background-color: yellow;
+}
+
+/* line 99, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.container_global_actu {
+  display: flex;
+  flex-direction: column;
+}
+
+/* line 103, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.container_actu {
+  display: flex;
+  margin: auto;
+  width: 90%;
+}
+
+/* line 108, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.contenu_actu {
+  width: 50%;
+  margin: 5px;
+}
+
+/* line 111, ../../Users/basti/OneDrive/Bureau/LP MIW/HTML-CSS/legume/2020_legumontagne/scss/style.scss */
+.contenu_actu img {
+  width: 100%;
+  height: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */
